@@ -1,18 +1,18 @@
 [submodule "tmux-diff"]
-	path = tmux-diff
+	path = TMUX_FIX
 	url = git@gist.github.com:e65baf0d590f62fab8f4f7c358cbcc34.git
 [submodule "git-diff"]
-	path = git-diff
+	path = GIT_FIX
 	url = git@gist.github.com:d33892b66257242b347211c944de78c8.git
 [submodule "mutt-diff"]
-	path = mutt-diff
+	path = MUTT_FIX
 	url = git@gist.github.com:606a36ba7d1b456e60b30db17fdc8c54.git
 [submodule "openssh-diff"]
-	path = openssh-diff
+	path = OPENSSH_FIX
 	url = git@gist.github.com:20d389ca32ecb16be83360918213524c.git
 [submodule "libandroid-shmem-diff"]
-	path = libandroid-shmem-diff
+	path = LIBANDROID_SHMEM
 	url = git@gist.github.com:247dbbb0a7d83a1dea98de2939327432.git
 [submodule "dropbear-diff"]
-	path = dropbear-diff
+	path = DROPBEAR_FIX
 	url = git@gist.github.com:3e353bd8f0b44f415880d047b4dad4af.git
