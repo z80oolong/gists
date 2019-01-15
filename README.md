@@ -1,4 +1,4 @@
-# gists -- Gist の一括管理用リポジトリ
+# gists -- Github Gist の一括管理用リポジトリ
 
 ## 概要
 
