@@ -16,3 +16,6 @@
 [submodule "dropbear-diff"]
 	path = DROPBEAR_FIX
 	url = git@gist.github.com:3e353bd8f0b44f415880d047b4dad4af.git
+[submodule "FIREFOX_DEB"]
+	path = FIREFOX_DEB
+	url = git@gist.github.com:aced467dc37d55f28082c32a07e3f285.git
