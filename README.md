@@ -1,4 +1,4 @@
-# gists -- Github Gist の纏めリポジトリ
+# gists -- Github Gist リポジトリの纏め
 
 ## 概要
 
